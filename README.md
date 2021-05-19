@@ -1,8 +1,7 @@
 # DSVendas
  [![APM](https://img.shields.io/apm/l/react?label=Licen%C3%A7a&style=flat-square)](https://github.com/danilotc/projeto-sds3/blob/master/LICENSE) ![GitHub repo size](https://img.shields.io/github/repo-size/danilotc/projeto-sds3?label=Tamanho%20reposit%C3%B3rio&style=flat-square) 
  ![GitHub language count](https://img.shields.io/github/languages/count/danilotc/projeto-sds3?label=Linguagens&style=flat-square) 
- ![GitHub top language](https://img.shields.io/github/languages/top/danilotc/projeto-sds3?logo=Java&style=flat-square) 
- ![Netlify](https://img.shields.io/netlify/31c2ce77-d0e5-49c8-b369-4a4a8586aa14?label=Netlify&style=flat-square)
+ ![GitHub top language](https://img.shields.io/github/languages/top/danilotc/projeto-sds3?logo=Java&style=flat-square)
 
 # Sobre o projeto
 
